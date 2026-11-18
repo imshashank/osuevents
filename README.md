@@ -8,5 +8,4 @@ The portal served as a directory of all events that happen at Ohio State Univers
 
 This was part of the OSU Hackathon and the work has been discontinued as of now.
 
-Made by
-Shashank Agarwal
+Made by [Shashank Agarwal](https://www.linkedin.com/in/shashankagarwal2/).
